@@ -1,4 +1,4 @@
-### Hy myslef Kumar satyam  👋
+### Hy myself Kumar satyam  👋
 
 <!--
 **satyam0500/satyam0500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
