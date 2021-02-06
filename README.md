@@ -1,7 +1,5 @@
 ### Hy myself Kumar satyam  👋
 
-<!--
-**satyam0500/satyam0500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...ksatyam0500@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I am not bad in chess,football :)
--->
