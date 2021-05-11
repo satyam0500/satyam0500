@@ -1,7 +1,7 @@
 ### Hy myself Kumar satyam  👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...React.js
 - 🌱 I’m currently learning ...React.js
